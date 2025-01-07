@@ -23,5 +23,25 @@
         "file": "D:\\\\GitHub Repos\\\\ActionRoguelike\\\\ActionRoguelike\\\\Source\\\\ActionRoguelike\\\\ActionRoguelikeGameModeBase.h",
         "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\GitHub Repos\\ActionRoguelike\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.212.rsp\"",
         "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\GitHub Repos\\\\ActionRoguelike\\\\ActionRoguelike\\\\Source\\\\ActionRoguelike\\\\Private\\\\SCharacter.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\GitHub Repos\\ActionRoguelike\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.212.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\GitHub Repos\\\\ActionRoguelike\\\\ActionRoguelike\\\\Source\\\\ActionRoguelike\\\\Private\\\\SMagicProjectile.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\GitHub Repos\\ActionRoguelike\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.212.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\GitHub Repos\\\\ActionRoguelike\\\\ActionRoguelike\\\\Source\\\\ActionRoguelike\\\\Public\\\\SCharacter.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\GitHub Repos\\ActionRoguelike\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.212.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\GitHub Repos\\\\ActionRoguelike\\\\ActionRoguelike\\\\Source\\\\ActionRoguelike\\\\Public\\\\SMagicProjectile.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\GitHub Repos\\ActionRoguelike\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.212.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
     }
 ]
